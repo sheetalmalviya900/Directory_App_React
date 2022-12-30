@@ -1,0 +1,56 @@
+#a1{
+    border: 1px solid black;
+    width: 83.8vw;
+    margin: auto;
+    margin-top: 2vh;
+    height: 80vh;
+}
+h3{
+    border: 1px solid black;
+    margin: 0vh;
+    width: 28vh;
+    height: 5vh;
+    margin-left: -0.1vw;
+    text-align: center;
+}
+table{
+    width: 78vw;
+    margin: auto;
+    /* border: 1px solid black; */
+    margin-top: 6vh;
+}
+td,th{
+    border: 1px solid black;
+    text-align: center;
+}
+td{
+    background-color: rgb(230, 244, 248);
+}
+th{
+    color: white;
+    background-color: rgb(90, 194, 243);
+}
+#Add{
+    background-color: rgb(90, 194, 243);
+    width: 8vw;
+    height: 5vh;
+    border-radius: 0.4vh;
+    margin-left: 73vw;
+    margin-top: 5vh;
+    border: none;
+    position: fixed;
+}
+#input1{
+    margin-top: 2vh;
+    margin-left: 4vh;
+    width: 28vw;
+    height: 6vh;
+}
+#Find{
+    background-color:rgb(90, 194, 243);
+    margin-left: 1vw;
+    height: 7vh;
+    width: 8vw;
+    border: none;
+    border-radius: 0.3vw;
+}

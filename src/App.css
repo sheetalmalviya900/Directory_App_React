@@ -1,0 +1,30 @@
+
+#head{
+    border: 1px solid black;
+    height: 8vh;
+    padding: auto;
+    width: 90vw;
+    margin: auto;
+    margin-top: 2vh;
+    background-color: rgb(90, 194, 243);
+}
+h1{
+    text-align: center;
+    margin-top: 1vh;
+    color: white;
+}
+#option{
+    /* border: 1px solid black; */
+    height: 4vh;
+    padding: auto;
+    width: 90vw;
+    margin: auto;
+    margin-top: 2vh;
+}
+#add{
+    height: 4vh;
+    margin-left: 3vw;
+    background-color:  rgb(90, 194, 243);
+    border: none;
+    color: white;
+}
